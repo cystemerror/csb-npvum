@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://cystemerror.github.io/csb-npvum/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://cystemerror.github.io/csb-npvum/static/js/main.5565ca16.chunk.js",
+    "main.js.map": "https://cystemerror.github.io/csb-npvum/static/js/main.5565ca16.chunk.js.map",
+    "runtime-main.js": "https://cystemerror.github.io/csb-npvum/static/js/runtime-main.5c2b4277.js",
+    "runtime-main.js.map": "https://cystemerror.github.io/csb-npvum/static/js/runtime-main.5c2b4277.js.map",
+    "static/js/2.3298e2a1.chunk.js": "https://cystemerror.github.io/csb-npvum/static/js/2.3298e2a1.chunk.js",
+    "static/js/2.3298e2a1.chunk.js.map": "https://cystemerror.github.io/csb-npvum/static/js/2.3298e2a1.chunk.js.map",
+    "index.html": "https://cystemerror.github.io/csb-npvum/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://cystemerror.github.io/csb-npvum/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3298e2a1.chunk.js.LICENSE.txt": "https://cystemerror.github.io/csb-npvum/static/js/2.3298e2a1.chunk.js.LICENSE.txt",
+    "static/media/gp.aff5fcd9.mp4": "https://cystemerror.github.io/csb-npvum/static/media/gp.aff5fcd9.mp4",
+    "static/media/mountain-thumb.968e7932.png": "https://cystemerror.github.io/csb-npvum/static/media/mountain-thumb.968e7932.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c2b4277.js",
+    "static/js/2.3298e2a1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5565ca16.chunk.js"
+  ]
+}
